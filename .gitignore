@@ -41,7 +41,6 @@ replay_pid*
 .recommenders
 .settings
 .springBeans
-.vscode
 /code
 MANIFEST.MF
 _site/
@@ -96,8 +95,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
-.vscode/
+
 
 
 node_modules
