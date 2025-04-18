@@ -30,6 +30,6 @@ Java Version: 17<br>
 ## Example Questions
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b6bf6953-f0cc-48e2-b883-550e116ac26c">
+  <img src="https://github.com/user-attachments/assets/b6bf6953-f0cc-48e2-b883-550e116ac26c" width="400">
   <br>
 </div>
