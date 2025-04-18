@@ -31,14 +31,12 @@ Java Version: 17<br>
 
 #### Student Management Microservice
 <div align="center">
-  <br>
   <img src="https://github.com/user-attachments/assets/b6bf6953-f0cc-48e2-b883-550e116ac26c" width="370">
   <br><br>
 </div>
 
 #### Library Management System
 <div align="center">
-  <br>
   <img src="https://github.com/user-attachments/assets/1b1228b3-e093-4428-a60e-27fa4869a8a4" width="370">
   <br><br>
 </div>
