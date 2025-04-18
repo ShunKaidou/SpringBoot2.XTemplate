@@ -41,4 +41,19 @@ Java Version: 17<br>
   <br><br>
 </div>
 
+#### Employee Wellbeing Application
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f451d9de-83b6-4afb-82cb-50a5e8e68f8b" width="370">
+  <br>
+  <img src="https://github.com/user-attachments/assets/966bc964-1f1a-449f-a571-952a08cfd12f" width="370">
+  <br>
+  <img src="https://github.com/user-attachments/assets/e2182f71-4c99-4bbd-8b89-c111de742287" width="370">
+  <br><br>
+</div>
+
+#### Library Management System
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1b1228b3-e093-4428-a60e-27fa4869a8a4" width="370">
+  <br><br>
+</div>
 
