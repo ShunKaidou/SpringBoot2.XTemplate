@@ -2,12 +2,18 @@
 
 ## Version
 Spring Boot Version: 2.7.18<br>
-Java Version: 17<br>
+Java Version: 17<br><br>
+Change java version in linux:
+
+```
+alternatives --config java
+
+```
 
 ---
 
 ## Dependency
-- spring-boot-starter-security
+- spring-boot-starter-security (Commented out in pom.xml)
 - spring-boot-starter-web
 - spring-boot-starter-jdbc
 - spring-boot-starter-data-jpa
