@@ -1,12 +1,12 @@
 # SpringBoot2.XTemplate
 
-### Version
+## Version
 Spring Boot Version: 2.7.18<br>
 Java Version: 17<br>
 
 ---
 
-### Dependency
+## Dependency
 - spring-boot-starter-security
 - spring-boot-starter-web
 - spring-boot-starter-jdbc
@@ -15,7 +15,7 @@ Java Version: 17<br>
 
 ---
 
-### Example Projects
+## Example Projects
 - [Access Security](https://github.com/ShunKaidou/SpringBoot2.XTemplate/tree/main/Example%20Projects/Access_Security)
 - [Student Management JDBC](https://github.com/ShunKaidou/SpringBoot2.XTemplate/tree/main/Example%20Projects/Student_Management_JDBC)
 - [College](https://github.com/ShunKaidou/SpringBoot2.XTemplate/tree/main/Example%20Projects/Springboot-College)
